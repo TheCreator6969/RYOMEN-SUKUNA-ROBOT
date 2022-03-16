@@ -53,9 +53,9 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 Hello, {}
-ɪ'ᴍ ʀʏᴏᴍᴇɴ ꜱᴜᴋᴜɴᴀ ᴛʜᴇ ᴄᴜʀꜱᴇ ᴋɪɴɢ.
+ɪ'ᴍ sʜɪᴋɪᴍᴏʀɪ-sᴀɴ 
 
-ɪ'ᴍ ᴀɴ ᴀɴɪᴍᴇ ᴛʜᴇᴍᴇᴅ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ꜰʀᴏᴍ ᴊᴜᴊᴜᴛꜱᴜ ᴋᴀɪꜱᴇɴ!!
+ɪ'ᴍ ᴀɴ ᴀɴɪᴍᴇ ᴛʜᴇᴍᴇᴅ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ꜰʀᴏᴍ sʜɪᴋɪᴍᴏʀɪ ɪs ɴᴏᴛ ᴊᴜsᴛ ᴀ ᴄᴜᴛɪᴇ !!
 
 You can find the list of available commands with /help
 """
@@ -80,7 +80,7 @@ And the following:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-SAITAMA_IMG = "https://telegra.ph/file/f18ac5dd7c77213308b28.jpg"
+SAITAMA_IMG = "https://te.legra.ph/file/fc72fadfc0c2185904ff7.mp4"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 You can donate to the original writer of the Base code, Paul
